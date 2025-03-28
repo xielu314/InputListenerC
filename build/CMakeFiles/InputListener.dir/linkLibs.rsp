@@ -1,0 +1,1 @@
+  -L"D:/Library/SDL3-3.2.8_x86_64-w64-mingw32/lib"  -L"D:/Library/lua-5.4.2_Win64_dllw6_lib"  -lSDL3 -llua54 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
